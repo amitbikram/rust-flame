@@ -1,0 +1,2 @@
+# rust-flame
+cargo run
